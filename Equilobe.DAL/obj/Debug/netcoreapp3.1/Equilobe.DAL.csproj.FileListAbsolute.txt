@@ -1,0 +1,9 @@
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.DAL\bin\Debug\netcoreapp3.1\Equilobe.DAL.deps.json
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.DAL\bin\Debug\netcoreapp3.1\Equilobe.DAL.dll
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.DAL\obj\Debug\netcoreapp3.1\Equilobe.DAL.AssemblyInfoInputs.cache
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.DAL\obj\Debug\netcoreapp3.1\Equilobe.DAL.AssemblyInfo.cs
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.DAL\bin\Debug\netcoreapp3.1\Equilobe.DAL.pdb
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.DAL\obj\Debug\netcoreapp3.1\Equilobe.DAL.csproj.CoreCompileInputs.cache
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.DAL\obj\Debug\netcoreapp3.1\Equilobe.DAL.dll
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.DAL\obj\Debug\netcoreapp3.1\Equilobe.DAL.pdb
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.DAL\obj\Debug\netcoreapp3.1\Equilobe.DAL.csprojAssemblyReference.cache

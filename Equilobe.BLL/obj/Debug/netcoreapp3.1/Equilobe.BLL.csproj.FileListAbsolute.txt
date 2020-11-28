@@ -1,0 +1,12 @@
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.BLL\bin\Debug\netcoreapp3.1\Equilobe.BLL.deps.json
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.BLL\bin\Debug\netcoreapp3.1\Equilobe.BLL.dll
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.BLL\bin\Debug\netcoreapp3.1\Equilobe.BLL.pdb
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.BLL\bin\Debug\netcoreapp3.1\Equilobe.DAL.dll
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.BLL\bin\Debug\netcoreapp3.1\Equilobe.DAL.pdb
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.BLL\obj\Debug\netcoreapp3.1\Equilobe.BLL.csprojAssemblyReference.cache
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.BLL\obj\Debug\netcoreapp3.1\Equilobe.BLL.csproj.CoreCompileInputs.cache
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.BLL\obj\Debug\netcoreapp3.1\Equilobe.BLL.AssemblyInfoInputs.cache
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.BLL\obj\Debug\netcoreapp3.1\Equilobe.BLL.AssemblyInfo.cs
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.BLL\obj\Debug\netcoreapp3.1\Equilobe.BLL.csproj.CopyComplete
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.BLL\obj\Debug\netcoreapp3.1\Equilobe.BLL.dll
+C:\Users\apopa\Desktop\Equilobe\Equilobe\Equilobe.BLL\obj\Debug\netcoreapp3.1\Equilobe.BLL.pdb

@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe\\Equilobe.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe.BLL\\Equilobe.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe.BLL\\Equilobe.BLL.csproj",
+        "projectName": "Equilobe.BLL",
+        "projectPath": "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe.BLL\\Equilobe.BLL.csproj",
+        "packagesPath": "C:\\Users\\apopa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\apopa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://teamcity.jactravel.co.uk/httpAuth/app/nuget/v1/FeedService.svc/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe.DAL\\Equilobe.DAL.csproj": {
+                "projectPath": "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe.DAL\\Equilobe.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe.DAL\\Equilobe.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe.DAL\\Equilobe.DAL.csproj",
+        "projectName": "Equilobe.DAL",
+        "projectPath": "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe.DAL\\Equilobe.DAL.csproj",
+        "packagesPath": "C:\\Users\\apopa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\apopa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://teamcity.jactravel.co.uk/httpAuth/app/nuget/v1/FeedService.svc/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe\\Equilobe.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe\\Equilobe.csproj",
+        "projectName": "Equilobe",
+        "projectPath": "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe\\Equilobe.csproj",
+        "packagesPath": "C:\\Users\\apopa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\apopa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://teamcity.jactravel.co.uk/httpAuth/app/nuget/v1/FeedService.svc/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe.BLL\\Equilobe.BLL.csproj": {
+                "projectPath": "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe.BLL\\Equilobe.BLL.csproj"
+              },
+              "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe.DAL\\Equilobe.DAL.csproj": {
+                "projectPath": "C:\\Users\\apopa\\Desktop\\Equilobe\\Equilobe\\Equilobe.DAL\\Equilobe.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
